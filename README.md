@@ -1,8 +1,10 @@
-# administrador-base-de-datos-python
+#                                             administrador-base-de-datos-python
 un sistema de gestion de base de datos hecho con Python 3,sqllite3 y Tkinter
 
 es un programa simple en el cual al pulsar en el menu BBDD en el boton conectar creara una base de datos llamada "Base_gestion"
 con este programa podras introducir los datos a la tabla, borrar los datos, actualizarlos, o leerlos
+
+#                                             operaciones
 
 para crear e introducir los campos no hace falta completar el campo ID debido a que este campo sera automatizado y la tabla pondra el ID en orden numerico
 
